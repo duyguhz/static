@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A5F437A8-6C00-4ED0-87F8-5A1F7B04AF29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreClasses/implementation/BravoMarket.cs">
+    <Files>
+      <File FileName="homework/Program.cs" Line="67" Column="50" />
+      <File FileName="StoreClasses/implementation/BravoMarket.cs" Line="29" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="070622" expanded="True">
+            <Node name="homework" expanded="True" />
+            <Node name="StoreClasses" expanded="True">
+              <Node name="implementation" expanded="True">
+                <Node name="BravoMarket.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StoreClasses FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.homework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
